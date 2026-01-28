@@ -6,6 +6,17 @@
 
 An intelligent AI-powered travel planning application that leverages multi-agent workflows, real-time data integration, and advanced language models to create comprehensive travel itineraries with detailed cost breakdowns.
 
+## 📚 Documentation for Interviews
+
+Perfect for explaining this project in technical interviews! Four comprehensive guides:
+
+- **[📖 How to Use This Documentation](HOW_TO_USE_DOCS.md)** - **START HERE!** Guide on using all documentation effectively for interview prep
+- **[📘 Complete Project Explanation](PROJECT_EXPLANATION.md)** - Comprehensive deep-dive into architecture, design patterns, and implementation (recommended for detailed interview prep)
+- **[⚡ Quick Interview Reference](INTERVIEW_QUICK_REFERENCE.md)** - Fast reference guide with elevator pitch, key talking points, and top 5 interview questions
+- **[🎨 Visual Diagrams](VISUAL_DIAGRAMS.md)** - ASCII diagrams showing architecture, workflows, data flow, and component interactions
+
+**Total: 2,100+ lines of interview-ready documentation**
+
 ## 🚀 Features
 
 ### Core Capabilities
