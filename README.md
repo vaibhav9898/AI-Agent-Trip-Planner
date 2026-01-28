@@ -8,8 +8,11 @@ An intelligent AI-powered travel planning application that leverages multi-agent
 
 ## 📚 Documentation for Interviews
 
+Perfect for explaining this project in technical interviews! Three comprehensive guides:
+
 - **[Complete Project Explanation](PROJECT_EXPLANATION.md)** - Comprehensive deep-dive into architecture, design patterns, and implementation (recommended for detailed interview prep)
-- **[Quick Interview Reference](INTERVIEW_QUICK_REFERENCE.md)** - Fast reference guide with key talking points and common interview questions
+- **[Quick Interview Reference](INTERVIEW_QUICK_REFERENCE.md)** - Fast reference guide with elevator pitch, key talking points, and top 5 interview questions
+- **[Visual Diagrams](VISUAL_DIAGRAMS.md)** - ASCII diagrams showing architecture, workflows, data flow, and component interactions
 
 ## 🚀 Features
 
