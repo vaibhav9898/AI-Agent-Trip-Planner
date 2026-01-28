@@ -6,6 +6,45 @@
 
 An intelligent AI-powered travel planning application that leverages multi-agent workflows, real-time data integration, and advanced language models to create comprehensive travel itineraries with detailed cost breakdowns.
 
+## 📚 Interview Preparation & Learning Resources
+
+**New to this project or preparing for an interview?** Start here:
+
+### 🎯 Quick Start
+- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Quick reference and overview (Start here!)
+  - Documentation map
+  - Key facts and concepts
+  - Study checklist
+  - Interview demo script
+
+### 📖 Comprehensive Guides
+
+1. **[INTERVIEW_PREP_GUIDE.md](INTERVIEW_PREP_GUIDE.md)** - Complete interview preparation guide
+   - Prerequisites and topics to study
+   - Recommended learning order
+   - Common interview questions
+   - Study timeline (4-week plan)
+
+2. **[CONCEPTS_EXPLAINED.md](CONCEPTS_EXPLAINED.md)** - Deep dive into AI/ML concepts
+   - Large Language Models (LLMs)
+   - Agentic Workflows
+   - Function Calling / Tool Use
+   - LangChain & LangGraph frameworks
+
+3. **[PROJECT_ARCHITECTURE.md](PROJECT_ARCHITECTURE.md)** - System design and architecture
+   - High-level architecture overview
+   - Component breakdown
+   - Data flow diagrams
+   - Design patterns used
+
+4. **[STEP_BY_STEP_GUIDE.md](STEP_BY_STEP_GUIDE.md)** - Code execution walkthrough
+   - Complete request flow trace
+   - Line-by-line code explanation
+   - Debugging guide
+   - Common execution patterns
+
+**Quick Start for Learners:** If you have basic AI/ML knowledge, start with the Interview Prep Guide, then read the other documents in order.
+
 ## 🚀 Features
 
 ### Core Capabilities
