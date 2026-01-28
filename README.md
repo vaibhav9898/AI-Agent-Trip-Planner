@@ -10,6 +10,15 @@ An intelligent AI-powered travel planning application that leverages multi-agent
 
 **New to this project or preparing for an interview?** Start here:
 
+### 🎯 Quick Start
+- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Quick reference and overview (Start here!)
+  - Documentation map
+  - Key facts and concepts
+  - Study checklist
+  - Interview demo script
+
+### 📖 Comprehensive Guides
+
 1. **[INTERVIEW_PREP_GUIDE.md](INTERVIEW_PREP_GUIDE.md)** - Complete interview preparation guide
    - Prerequisites and topics to study
    - Recommended learning order
